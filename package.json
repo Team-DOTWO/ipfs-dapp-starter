@@ -1,0 +1,22 @@
+{
+  "name": "ipfs-dapp-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "vite.config.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Team-DOTWO/ipfs-dapp-starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Team-DOTWO/ipfs-dapp-starter/issues"
+  },
+  "homepage": "https://github.com/Team-DOTWO/ipfs-dapp-starter#readme"
+}
