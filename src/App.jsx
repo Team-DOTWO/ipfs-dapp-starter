@@ -1,5 +1,5 @@
 import './App.css';
-import logo from './logo.svg';
+// import logo from './logo.svg';
 
 import React, { useState } from 'react';
 //import Contract from "./contracts/Contract.json";
